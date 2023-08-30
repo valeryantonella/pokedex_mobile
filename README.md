@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Imagenes
-![Imagen 1](https://github.com/valeryantonella/pokedex_mobile/assets/137141685/7691ca00-2bb4-4b57-a10d-74793b343890)
-![Imagen 2](https://github.com/valeryantonella/pokedex_mobile/assets/137141685/e5b741ce-eab6-4931-b78a-7c14c76026d9)
-![Imagen 3](https://github.com/valeryantonella/pokedex_mobile/assets/137141685/be5f8161-28a7-4d14-af59-64c180d1ca8e)
+![Imagen 1](https://github.com/valeryantonella/pokedex_mobile/assets/137141685/e0b4cebd-6279-4f1a-996f-ab6c8ddc2cea)
+![Imagen 2](https://github.com/valeryantonella/pokedex_mobile/assets/137141685/8cb272b3-c8cb-40eb-baa1-25f34c30ad0c)
+![Imagen 3](https://github.com/valeryantonella/pokedex_mobile/assets/137141685/821eacab-3d0f-4db3-9fa5-f10a963cf076)
